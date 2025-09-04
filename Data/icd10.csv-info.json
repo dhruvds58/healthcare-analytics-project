@@ -1,0 +1,26 @@
+{
+  "starred": false,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2025-05-30T02:15:59Z",
+  "last_modified_by_me": "2025-05-30T02:15:59Z",
+  "content_last_modified": "2025-05-30T02:15:59Z",
+  "created": "2025-05-30T02:24:14.653Z",
+  "permissions": [
+    {
+      "id": "08085063898610338336",
+      "name": "Dhruv Shah",
+      "type": "user",
+      "role": "owner",
+      "value": "dhruvds@bu.edu",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/ACg8ocJFnpVezhhsURuSNvdzl72Ykr1WjsHw1Oe8njVh8Fbubh3xO2U=s64",
+      "email_address": "dhruvds@bu.edu",
+      "domain": "bu.edu",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "icd10.csv",
+  "drive_id": "1Bo_LHACNDi4VCMeu4GO52xDH-2AUUtY6",
+  "mime_type": "text/csv"
+}

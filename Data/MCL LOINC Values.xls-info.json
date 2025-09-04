@@ -1,0 +1,26 @@
+{
+  "starred": false,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2025-05-11T01:23:01Z",
+  "last_modified_by_me": "2025-05-11T01:23:01Z",
+  "content_last_modified": "2025-05-11T01:23:01Z",
+  "created": "2025-05-11T01:27:10.211Z",
+  "permissions": [
+    {
+      "id": "08085063898610338336",
+      "name": "Dhruv Shah",
+      "type": "user",
+      "role": "owner",
+      "value": "dhruvds@bu.edu",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/ACg8ocJFnpVezhhsURuSNvdzl72Ykr1WjsHw1Oe8njVh8Fbubh3xO2U=s64",
+      "email_address": "dhruvds@bu.edu",
+      "domain": "bu.edu",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "MCL LOINC Values.xls",
+  "drive_id": "1MyW27Gvf1ITTaGhkZsapUqr3CGMeq_fi",
+  "mime_type": "application/vnd.ms-excel"
+}
